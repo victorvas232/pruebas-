@@ -1,0 +1,16 @@
+C:\Users\vv999\source\repos\2jercicio\2jercicio\bin\Debug\net8.0-windows\2jercicio.exe
+C:\Users\vv999\source\repos\2jercicio\2jercicio\bin\Debug\net8.0-windows\2jercicio.deps.json
+C:\Users\vv999\source\repos\2jercicio\2jercicio\bin\Debug\net8.0-windows\2jercicio.runtimeconfig.json
+C:\Users\vv999\source\repos\2jercicio\2jercicio\bin\Debug\net8.0-windows\2jercicio.dll
+C:\Users\vv999\source\repos\2jercicio\2jercicio\bin\Debug\net8.0-windows\2jercicio.pdb
+C:\Users\vv999\source\repos\2jercicio\2jercicio\obj\Debug\net8.0-windows\_2jercicio.Form1.resources
+C:\Users\vv999\source\repos\2jercicio\2jercicio\obj\Debug\net8.0-windows\2jercicio.csproj.GenerateResource.cache
+C:\Users\vv999\source\repos\2jercicio\2jercicio\obj\Debug\net8.0-windows\2jercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vv999\source\repos\2jercicio\2jercicio\obj\Debug\net8.0-windows\2jercicio.AssemblyInfoInputs.cache
+C:\Users\vv999\source\repos\2jercicio\2jercicio\obj\Debug\net8.0-windows\2jercicio.AssemblyInfo.cs
+C:\Users\vv999\source\repos\2jercicio\2jercicio\obj\Debug\net8.0-windows\2jercicio.csproj.CoreCompileInputs.cache
+C:\Users\vv999\source\repos\2jercicio\2jercicio\obj\Debug\net8.0-windows\2jercicio.dll
+C:\Users\vv999\source\repos\2jercicio\2jercicio\obj\Debug\net8.0-windows\refint\2jercicio.dll
+C:\Users\vv999\source\repos\2jercicio\2jercicio\obj\Debug\net8.0-windows\2jercicio.pdb
+C:\Users\vv999\source\repos\2jercicio\2jercicio\obj\Debug\net8.0-windows\2jercicio.genruntimeconfig.cache
+C:\Users\vv999\source\repos\2jercicio\2jercicio\obj\Debug\net8.0-windows\ref\2jercicio.dll
